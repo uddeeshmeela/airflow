@@ -1,0 +1,17 @@
+1. Setup MAKE command
+2. Make some DAGs
+3. Challenge: Create a DAG that invokes another DAG 
+4. Study database, metadata of dags
+4. Search all the ways of rescheduling a failed DAG. 
+5. Go through the DAG stats.
+6. Understand all possible states of a DAG 
+7. Understand the users and roles 
+8. Study how can RBAC be implemented in airflow. 
+9. Containerize redis_insight with the docker compose
+10. Docker vs Docker compose 
+11. Volume vs Image vs Container 
+12. Persistance of the volumes (how they are ensured?), how does it understand if the volume setup is a folder in local machine or not. 
+13. Port mappings. 
+14. What is CeleryExecutor, what are its alternatives. 
+15. What is airflow worker, scheduler, webserver & flower (celery) ?
+16. Understand the configuration setup across the worker, scheduler, webserver! 
